@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.article-comment {
+margin-top: 20px;
+}
+
+.article-comment textarea[name="comment"] {
+display: block;
+}
+
+.comment-error {
+color: red;
+}
+
+.article-comments {
+    height: 400px;
+}
+
+.container {
+    width: 865px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container1 {
+    width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navTop {
+    height: 50px;
+}
+
+.navTop li {
+    margin-right: 13px;
+    display: inline;
+    font-size: 9px;
+    font-family: Courier, sans-serif;
+}
+
+a {
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.navTop .current a,
+.navTop a:hover {
+    color:red;
+}
+
+.headArt {
+    width: 320px;
+    height: 80px;
+    text-align: left;
+    margin: auto;
+}
+
+.headA {
+    margin: 0 0 13px;
+    color: red;
+}
+h4 {
+    margin: 0 0 2px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 270px;
+    height: 120px;
+}
+
+.imgDiv {
+    padding-top: 45px;
+    height: 175px;
+    border-bottom: 1px solid #c0c0c0;
+    border-top: 1px solid #c0c0c0;
+    margin-bottom: 40px;
+}
+
+.articleContainer {
+    width: 415px;
+    height: 132px;
+    overflow-x: hidden;
+    margin: 0;
+}
+
+.articleImage {
+    float: left;
+    margin: 0 25px 60px 0;
+    width: 265px;
+    height: 200px;
+}
+
+.articleInMain {
+    width: 760px;
+    height: 230px;
+    margin-bottom: 30px;
+}
+
+
+body {
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.headerInMain {
+    margin-bottom: 15px;
+}
+
+main {
+    width: 725px;
+    display: inline;
+    vertical-align: middle;
+}
